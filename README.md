@@ -46,7 +46,7 @@ NOT: kurulumdan sonra vulnerability bulursa audit yapmak yerine *sadece bu proje
 
 ### Görev 3: Ek Problemler
 
-Gerekli öğelerinizi bitirdikten sonra çalışmanızı daha da ileri götürebilirsiniz. Bu hedefler, bu modülde öğrendiğiniz şeyler olabilir veya olmayabilir, ancak az önce çalıştığınız materyal üzerine inşa edilmelidir. Zaman tanıyın, sınırlarınızı zorlayın ve aşağıdaki isteğe bağlı hedeflere ulaşıp ulaşamayacağınıza bakın:
+Gerekli öğelerinizi bitirdikten sonra çalışmanızı daha da ileri  götürebilirsiniz.Bu hedefler, bu modülde öğrendiğiniz şeyler olabilir veya olmayabilir, ancak az önce çalıştığınız materyal üzerine inşa edilmelidir. Zaman tanıyın, sınırlarınızı zorlayın ve aşağıdaki isteğe bağlı hedeflere ulaşıp ulaşamayacağınıza bakın:
 
 #### Ek Hedef 1 (To-Do Listesi)
 
